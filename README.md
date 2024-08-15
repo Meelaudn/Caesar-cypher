@@ -35,6 +35,7 @@ This Python script implements a Caesar Cipher, a simple encryption technique whe
    Decrypted message: meelaud
 
 How It Works
+
 Encryption
 The encryption process shifts each letter in the input message by a fixed number of positions in the alphabet, as specified by the user-provided key. Non-alphabetic characters remain unchanged.
 
